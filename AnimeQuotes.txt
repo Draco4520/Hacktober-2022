@@ -12,4 +12,10 @@
  "Quote"  : "If you don’t take risks, you can’t create a future!"
  "Character" : "Monkey D. Luffy"
 },
+
+{
+  "Anime" : "Darling in the Franxx"
+  "Quote" : "I think I have taken a liking to you. Won't you be my darling?"
+  "Character : "Zero Two"
+},
 ]
